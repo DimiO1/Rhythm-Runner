@@ -1,1 +1,1 @@
-A 2-D game were the story lies within a Record label. An evil boss has taken over and believes to destroy the whole city because his music got leaked.
+A 2-D game were the story lies within a Record label. An evil boss has taken over and believes to destroy the whole city because his music got leaked. Melody has been asked to bring about his powers to defeat the boss. In order to do that, he most attack based on the beat of the song unless he is vulnerable to death.
